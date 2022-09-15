@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuXinFan
 - 👀 I’m interested in security, privacy 
-- 🌱 I’m currently learning verification/symbolic execution
+- 🌱 I’m currently learning privacy computation
 - 💞️ I’m looking to collaborate on multi-party computation impl security/neural network security/blockchain security
 - 📫 Reach me by e-mail  
 
